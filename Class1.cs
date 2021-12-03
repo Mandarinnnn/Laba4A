@@ -236,6 +236,7 @@ namespace Laba4
                             {
                                 S.Push(i+1);
                                 array[i, 1] = StackElement;
+
                             }
                         }
 
